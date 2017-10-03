@@ -56,7 +56,7 @@ Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
-
+Secretaria Municipal da Educação | http://sme.fortaleza.ce.gov.br | React, React-Native, Redux, Saga, ImmutableJS, Lodash
 
 ## Projetos que usam React no Brasil
 
